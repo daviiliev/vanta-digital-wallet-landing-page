@@ -4,6 +4,8 @@ A premium fintech landing page concept for VANTA, a fictional digital wallet and
 
 The project focuses on combining modern editorial web design with a realistic digital banking product interface.
 
+Link to the landing page: https://daviiliev.github.io/vanta-digital-wallet-landing-page/
+
 ## Overview
 
 VANTA is imagined as an all-in-one financial app that allows users to:
@@ -68,6 +70,3 @@ vanta-digital-wallet-landing-page/
 ├── index.html
 ├── README.md
 └── assets/
-
-
-Link to the landing page: https://daviiliev.github.io/vanta-digital-wallet-landing-page/
